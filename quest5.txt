@@ -1,0 +1,3 @@
+Levando em consideração a ideia de que uma lâmpada fica um pouco aquecida ao ficar ligada por um tempo, podemos usar o seguinte método:
+
+Ligue um interruptor e deixe-o ligado por um tempo. Após esse período, desligue-o e imediatamente ligue outro interruptor. Em seguida, você pode ir a qualquer duas das salas. Ao chegar e ver que a lâmpada está acesa, você pode associar essa lâmpada ao interruptor que está ligado no momento. Se a lâmpada estiver apagada e ao tocá-la sentir um leve aquecimento, isso indica que ela corresponde ao interruptor que estava ligado anteriormente. Se a lâmpada estiver apagada e não estiver aquecida, então é o interruptor que não foi ligado.
